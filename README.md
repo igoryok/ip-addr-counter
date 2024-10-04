@@ -51,4 +51,4 @@ I.e. results from processing of [115GB file](https://ecwid-vgv-storage.s3.eu-cen
 2024/10/04 12:48:01 Elapsed Time in milliseconds: 551245
 ```
 
-Go solution is a little bit faster rather then [Java solution](https://github.com/igoryok/ip-addr-counter-java?tab=readme-ov-file#result)
+Go solution is a little bit faster rather than [Java solution](https://github.com/igoryok/ip-addr-counter-java?tab=readme-ov-file#result)
